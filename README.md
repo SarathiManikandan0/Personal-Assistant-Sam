@@ -7,6 +7,6 @@
 # License & Copyright
 @ Sarathi Manikandan
 
-LICENSE under the MITLicense[https://github.com/SarathiManikandan0/Personal-Assistant-Sam/blob/main/LICENSE](url)
+LICENSE under the [MITLicense](https://github.com/SarathiManikandan0/Personal-Assistant-Sam/blob/main/LICENSE)
 
 
